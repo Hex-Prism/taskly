@@ -18,7 +18,7 @@ import {
 } from '@chakra-ui/react'; 
 import TasksSkeleton from '../_skeletons/TasksSkeleton'; 
 import { Link, useSearchParams } from 'react-router-dom';
-import Pagination from '../components/Pagination';
+import Pagination from '../components/pagination';
 import { BsArrowUp } from 'react-icons/bs';
 import { FaTrashAlt } from 'react-icons/fa';
 
